@@ -1,11 +1,35 @@
 {
 	"cards": [
 		{
-			"title": "Screen Puzzle",
-			"text": "Приложение, которое позволяет собирать мобильные видеостены любой формы из подручных Android устройств. Имеет патент. (Самое интересное в пункте Description в README)",
+			"title": "AI course for Innopolis' summer school",
+			"text": "\"Together with my partner, we have created and taught an offline master class on AI at Innopolis University as a part of the \"Smart Vacation\" summer course. We have prepared interactive materials for learning Python and developed an AI game simulator in Unity. In total, we have taught this master class to 4 groups of 25 people each",
 			"buttons": [
 				{
-					"text": "Видео",
+					"text": "Notion",
+					"link": "https://instinctive-cobalt-e47.notion.site/AI-class-for-Inno-b699d08069384d87925485f0f5d1543a"
+				}
+			]
+		},
+		{
+			"title": "Created App Concept for Kruzok Movement",
+			"text": "Our team (of two people) has developed the concept, design, and corresponding functionality of the site on a commercial basis. At the moment, the platform is in beta testing.",
+			"buttons": [
+				{
+					"text": "Our concept",
+					"link": "https://docs.google.com/document/d/1IZw8p6Hm9-K1KYvuyR4HUJ7QVF0uWKGMwDZOK9_W4BQ/edit"
+				},
+				{
+					"text": "Platform",
+					"link": "https://mytalent.kruzhok.org/"
+				}
+			]
+		},
+		{
+			"title": "Screen Puzzle",
+			"text": "App that allows users to assemble mobile video walls of various shapes from available Android-devices. Has a patent and includes a scientific paper. Winner of Sumsung and POST-ISEF contests.",
+			"buttons": [
+				{
+					"text": "Video",
 					"link": "https://youtu.be/yk01QIdEeVM"
 				},
 				{
@@ -15,8 +39,8 @@
 			]
 		},
 		{
-			"title": "Стажировка Иннополис",
-			"text": "Была тимлидом направления «Android-разработка» во время дистанционной стажировки Иннополиса. Созданное моей командой приложение, после доработки до продакшена, будет использовано Довузом Иннополиса.",
+			"title": "Innopolis' remote internship",
+			"text": "I was a team leader of the Android Development department during a remote internship at Innopolis. The beta version of the application was created by my team, and now, after being completed by the students, is used by the universities guests.",
 			"buttons": [
 				{
 					"text": "GitHub",
@@ -29,28 +53,8 @@
 			]
 		},
 		{
-			"title": "Курс для IT школы Иннополиса",
-			"text": "Вместе с напарником я создала и провела офлайн мастер-класс по искусственному интеллекту в Университете Иннополис в рамках курса «Умные выходные». Мы подготовили интерактивные материалы для изучения Python и разработали игровой симулятор ИИ в Unity. Всего мы провели этот мастер-класс в 4 группах по 25 человек в каждой.",
-			"buttons": [
-				{
-					"text": "Notion",
-					"link": "https://instinctive-cobalt-e47.notion.site/AI-class-for-Inno-b699d08069384d87925485f0f5d1543a"
-				}
-			]
-		},
-		{
-			"title": "Резюме-платформа Кружкового Движения",
-			"text": "Наша команда (из двух человек) разработала концепцию, дизайн и соответствующий функционал сайта на коммерческой основе.",
-			"buttons": [
-				{
-					"text": "Концепция",
-					"link": "https://docs.google.com/document/d/1IZw8p6Hm9-K1KYvuyR4HUJ7QVF0uWKGMwDZOK9_W4BQ/edit"
-				}
-			]
-		},
-		{
-			"title": "Crew Street (стартап)",
-			"text": "Веб-приложение, которое помогает компаниям находить идеальных кандидатов на вакансии младшего специалиста, а также помогает начинающим разработчикам найти свою первую работу.",
+			"title": "Crew Street",
+			"text": "A web application that helps companies find ideal candidates for junior specialist vacancies, and also helps inexperienced developers find their first job.",
 			"buttons": [
 				{
 					"text": "Лэндинг",
@@ -60,18 +64,8 @@
 		},
 
 		{
-			"title": "Хакатоны",
-			"text": "Участвую в местных хакатонах Android-разработки. Например, команда, в которой я являлась тимлидом, разработала приложение, позволяющее удаленно собирать данные о состоянии теплицы и управлять ее системами полива.",
-			"buttons": [
-				{
-					"text": "GitHub",
-					"link": "https://github.com/DablSi/Kopatel-offline"
-				}
-			]
-		},
-		{
-			"title": "Плеер, управляемый жестами",
-			"text": "Android-приложение, позволяющее управлять воспроизведением музыки посредством различных жестов (потряхивание телефона и т.п.)",
+			"title": "Hackathons",
+			"text": "I participate in local Android development hackathons. For example, the team in which I was a team leader has developed an application that allows you to remotely collect the data of a greenhouse and manage its irrigation systems.",
 			"buttons": [
 				{
 					"text": "GitHub",
