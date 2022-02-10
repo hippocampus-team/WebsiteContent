@@ -1,18 +1,48 @@
 {
 	"cards": [
 		{
-			"title": "IT школа Samsung",
-			"text": "Это - школа Android разработки. Была окончена мною в 2019 году с золотым дипломом отличия.",
+			"title": "Regeneron ISEF finalist",
+			"text": "International science and engineering fair, held in USA. Every year, roughly ten million students participate in science fairs around the world, but only about 1,500 of them make it to the finals.",
 			"buttons": [
 				{
-					"text": "Сертификат",
+					"text": "Certificate",
+					"link": "https://drive.google.com/file/d/1raOrVZuWUe0D_EkV0aB6Ivu3IJi1wQBm/view?usp=sharing"
+				}
+			]
+		},
+		{
+			"title": "ONTI BD&ML",
+			"text": "Prize-winner of the ONTI 2021 Big Data and Machine Learning competition.",
+			"buttons": [
+				{
+					"text": "Certificate",
+					"link": "https://drive.google.com/file/d/14AYtlqivFN5upDFNIi7URUbPEdlHUe6H/view?usp=sharing"
+				}
+			]
+		},
+		{
+			"title": "Samsung’s contest “IT school chooses the strongest”",
+			"text": "Contest of Android projects for the graduates of the \"Samsung IT school\". First place among all categories.",
+			"buttons": [
+				{
+					"text": "Certificate",
+					"link": "https://drive.google.com/file/d/1raOrVZuWUe0D_EkV0aB6Ivu3IJi1wQBm/view?usp=sharing"
+				}
+			]
+		},
+		{
+			"title": "Samsung IT School",
+			"text": "Android development school. Graduated in 2019 with a golden diploma of excellence.",
+			"buttons": [
+				{
+					"text": "Certificate",
 					"link": "https://drive.google.com/file/d/1hDHZAhr4A214hHjchsVIJANxJZPkwkOW/view?usp=sharing"
 				}
 			]
 		},
 		{
-			"title": "Яндекс.Лицей",
-			"text": "Окончила 1 курс Яндекс.Лицея со статусом суперотличника. (это настоящий статус)",
+			"title": "Yandex.Lyceum",
+			"text": "Python and backend development school. Graduated the first year with honors (top 5-10% in country)",
 			"buttons": [
 				{
 					"text": "Сертификат",
@@ -21,33 +51,8 @@
 			]
 		},
 		{
-			"title": "Финалист ISEF",
-			"text": "Международный конкурс научных и инженерных работ школьников, проходящий в США. Ежегодно десятки миллионов школьников участвуют в научных ярмарках по всему миру, но только около 1800 человек проходит в финал.",
-			"buttons": [
-				{
-					"text": "Сертификат",
-					"link": "https://drive.google.com/file/d/1raOrVZuWUe0D_EkV0aB6Ivu3IJi1wQBm/view?usp=sharing"
-				}
-			]
-		},
-				{
-			"title": "НТИ БДиМО",
-			"text": "Являюсь призером конкурса НТИ 2021 по профилю Большие Данные и Машинное Обучение.",
-			"buttons": []
-		},
-		{
-			"title": "Гран-при \"IT школа Samsung выбирает сильнейших\"",
-			"text": "Конкурс Android-приложений среди выпускников \"IT школы Samsung\". Первое место среди всех категорий.",
-			"buttons": [
-				{
-					"text": "Сертификат",
-					"link": "https://drive.google.com/file/d/1raOrVZuWUe0D_EkV0aB6Ivu3IJi1wQBm/view?usp=sharing"
-				}
-			]
-		},
-		{
-			"title": "Онлайн курсы",
-			"text": "Прошла вводный курс Гарвада по компьтерным наукам CS50 и нахожусь в процессе прохождения их же курса по ИИ (CS50AI)",
+			"title": "Online courses",
+			"text": "\"I took Harvard's \"Introduction to computer science\" course (CS50) and their \"Introduction to AI\" course (CS50AI)",
 			"buttons": []
 		}
 	]
